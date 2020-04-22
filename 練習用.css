@@ -1,0 +1,35 @@
+body{
+  font-family: sans-serif;
+}
+.header{
+  background-color: TEAL;
+  height: 150px;
+}
+.header-logo{
+  font-size: 30px;
+  color:white;
+}
+.header-list{
+  font-size: 15px;
+  color:white;
+}
+.main{
+  height: 400px;
+}
+.copy-container h1{
+  font-size:  50px;
+}
+.copy-container h2{
+  font-size: 40px;
+}
+.section-title{
+  font-size: 20px;
+}
+.footer{
+  background-color: #777799;
+  height: 200px;
+}
+.footer-logo{
+  font-size: 30px;
+  color: white;
+}
